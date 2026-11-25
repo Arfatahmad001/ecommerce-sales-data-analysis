@@ -1,0 +1,17 @@
+DATASET: UCI ONLINE RETAIL
+
+Official dataset page:
+https://archive.ics.uci.edu/dataset/352/online-retail
+
+Official ZIP archive:
+https://archive.ics.uci.edu/static/public/352/online+retail.zip
+
+The ZIP contains the Online Retail.xlsx workbook.
+
+Citation:
+Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository.
+https://doi.org/10.24432/C5BW33
+
+License: CC BY 4.0. Retain attribution to the dataset creator and UCI.
+Dataset coverage: 1 December 2010 to 9 December 2011.
+The dataset describes transactions from a UK-based non-store online retailer.
